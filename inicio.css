@@ -1,0 +1,100 @@
+table {
+    width: 100%; background-color: rgb(39,49,140);
+    height: 130vh; 
+   
+}
+
+td {
+    width: 5.5%;
+    height: 10%;
+}
+
+#text1{
+  height: 50px;
+
+}
+
+#tel{
+   
+    text-align: center;
+  
+}
+ 
+.texto { font-size: 22px;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;}
+
+
+.texto0{ font-size: 22px; font-size: 22px;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;}
+
+
+.texto1{font-size: 22px;
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;}
+
+.Quem{height: 110px;;}
+
+.baixo{height: 60px;}
+
+.quemsomos{text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    font-size: 60px;}
+    
+    .tres{
+        height: 130px;
+    }
+
+    .prima{ height: 100px;}
+    
+    .caba{ height: 40px;}
+
+    .quarta{
+        height: 200px;
+    }
+    .x{
+        height: 200px;
+    }
+    .zz{
+        height: 80px;
+    }
+
+.ram1{ text-align: center;}
+
+.ram2{ text-align: center;}
+
+.ram3{text-align: center;}
+
+.russo{
+    height: 200px;
+    }
+
+    .bbb{ text-align: center;}
+
+    .aaa{ text-align: center;}
+
+    .ccc{ text-align: center;}  
+
+    body{ margin: 0%0;}
+
+    .m{ background-color: aliceblue;}
+    
